@@ -1,0 +1,4 @@
+C:\Users\fernando.chitolina.VIACERTA\source\repos\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.csprojAssemblyReference.cache
+C:\Users\fernando.chitolina.VIACERTA\source\repos\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfoInputs.cache
+C:\Users\fernando.chitolina.VIACERTA\source\repos\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfo.cs
+C:\Users\fernando.chitolina.VIACERTA\source\repos\Threads\Threads\obj\Debug\netcoreapp3.1\Threads.csproj.CoreCompileInputs.cache
